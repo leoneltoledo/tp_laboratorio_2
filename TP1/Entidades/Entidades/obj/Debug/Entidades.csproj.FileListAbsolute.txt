@@ -1,0 +1,15 @@
+C:\Users\LTOLEDO\Desktop\Entidades\Entidades\bin\Debug\Entidades.exe.config
+A:\Desktop\UTN\Programación 2\Laboratorio\TP1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TP1\Entidades\Entidades\bin\Debug\Entidades.exe.config
+A:\Desktop\UTN\Programación 2\Laboratorio\TP1\Entidades\Entidades\bin\Debug\Entidades.exe
+A:\Desktop\UTN\Programación 2\Laboratorio\TP1\Entidades\Entidades\bin\Debug\Entidades.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TP1\Entidades\Entidades\obj\Debug\Entidades.exe
+A:\Desktop\UTN\Programación 2\Laboratorio\TP1\Entidades\Entidades\obj\Debug\Entidades.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP1\Entidades\Entidades\bin\Debug\Entidades.exe.config
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP1\Entidades\Entidades\bin\Debug\Entidades.exe
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP1\Entidades\Entidades\bin\Debug\Entidades.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP1\Entidades\Entidades\obj\Debug\Entidades.exe
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP1\Entidades\Entidades\obj\Debug\Entidades.pdb
