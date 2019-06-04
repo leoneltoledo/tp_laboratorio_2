@@ -1,0 +1,9 @@
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

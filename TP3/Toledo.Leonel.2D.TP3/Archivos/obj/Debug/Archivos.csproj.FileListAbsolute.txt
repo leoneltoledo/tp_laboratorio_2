@@ -1,0 +1,6 @@
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Archivos\bin\Debug\Archivos.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Archivos\obj\Debug\Archivos.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Archivos\obj\Debug\Archivos.pdb

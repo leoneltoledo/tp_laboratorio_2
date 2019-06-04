@@ -1,0 +1,6 @@
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb

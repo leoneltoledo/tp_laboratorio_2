@@ -1,0 +1,13 @@
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

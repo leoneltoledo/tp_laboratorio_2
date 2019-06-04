@@ -1,0 +1,17 @@
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP3\Toledo.Leonel.2D.TP3\VistaConsola\bin\Debug\VistaConsola.exe.config
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\bin\Debug\VistaConsola.exe.config
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\bin\Debug\VistaConsola.exe
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\bin\Debug\VistaConsola.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\bin\Debug\Clases Abstractas.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\bin\Debug\Clases Instanciables.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\bin\Debug\Excepciones.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\bin\Debug\Archivos.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\bin\Debug\Clases Abstractas.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\bin\Debug\Clases Instanciables.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\bin\Debug\Excepciones.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\bin\Debug\Archivos.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\obj\Debug\VistaConsola.exe
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP3\Toledo.Leonel.2D.TP3\VistaConsola\obj\Debug\VistaConsola.pdb
