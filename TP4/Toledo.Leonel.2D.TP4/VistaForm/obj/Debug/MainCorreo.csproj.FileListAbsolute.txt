@@ -1,0 +1,17 @@
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\bin\Debug\MainCorreo.exe.config
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\bin\Debug\MainCorreo.exe
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\bin\Debug\MainCorreo.pdb
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.exe
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\bin\Debug\MainCorreo.exe.config
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\bin\Debug\MainCorreo.exe
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\bin\Debug\MainCorreo.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\VistaForm.FrmPpal.resources
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.Properties.Resources.resources
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.exe
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.pdb

@@ -1,0 +1,8 @@
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\LTOLEDO\Desktop\Visual\TPS\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\VistaForm.pdb
