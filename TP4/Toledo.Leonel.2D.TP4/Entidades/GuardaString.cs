@@ -14,8 +14,8 @@ namespace Entidades
         {
             try
             {
-                string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\" + archivo;
-                //path += @"\" + archivo;
+                string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+                path += @"\" + archivo;
                 StreamWriter sw = new StreamWriter(path, File.Exists(path));
                 sw.WriteLine(texto);
                 sw.Close();
