@@ -15,3 +15,6 @@ A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaFor
 A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
 A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.exe
 A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\bin\Debug\Entidades.dll
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\bin\Debug\Entidades.pdb
+A:\Desktop\UTN\Programación 2\Laboratorio\TPs\TP4\Toledo.Leonel.2D.TP4\VistaForm\obj\Debug\MainCorreo.csproj.CopyComplete

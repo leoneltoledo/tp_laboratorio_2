@@ -64,7 +64,6 @@ namespace Entidades
             while (Estado != EEstado.Entregado)
             {
                 Thread.Sleep(4000);
-                //Modificar la siguiente linea
                 //Estado = (Estado == EEstado.Ingresado) ? EEstado.EnViaje : EEstado.Entregado;
                 if(Estado == EEstado.Ingresado)
                 {

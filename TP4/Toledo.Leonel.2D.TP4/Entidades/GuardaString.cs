@@ -10,7 +10,6 @@ namespace Entidades
     public static class GuardaString
     {
         #region Methods
-        //Modificar un poco
         public static bool Guardar(this String texto, string archivo)
         {
             try

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    class TrackingIdRepetidoException : Exception
+    public class TrackingIdRepetidoException : Exception
     {
         #region Methods
         public TrackingIdRepetidoException(string msj, Exception innerException) : base(msj, innerException)
