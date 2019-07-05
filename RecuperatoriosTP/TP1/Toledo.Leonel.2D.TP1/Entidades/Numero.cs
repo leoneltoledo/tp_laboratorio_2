@@ -61,46 +61,69 @@ namespace Entidades
 
         public string BinarioDecimal(string binario)
         {
-            this.SetNumero = binario;
-            if (this.numero != 0)
+            int x, y;
+            double num = 0;
+            string retorno = "";
+            bool verif = true;
+            y = 0;
+
+            for (x = binario.Length - 1; x >= 0; x--)
             {
-                char[] array = binario.ToCharArray();
-                Array.Reverse(array);
-                double sum = 0;
-                for (int x = 0; x < array.Length; x++)
+                y++;
+                if (binario[x] == '0' || binario[x] == '1')
                 {
-                    if (array[x] == '1')
-                        sum += Math.Pow(2, x);
+                    num += (double)(double.Parse(binario[x].ToString()) * Math.Pow(2, y));
                 }
-                return sum.ToString();
+                else
+                {
+                    retorno = "No es binario";
+                    verif = false;
+                }
+
             }
-            return "Valor inválido";
+            if (verif)
+            {
+                retorno = Convert.ToString(num / 2);
+
+            }
+            return retorno;
         }
 
         public string DecimalBinario(double numero)
         {
-            string respuesta = "";
-            while (numero > 1)
-            {
-                double resto = numero % 2;
-                respuesta = Convert.ToString(resto) + respuesta;
-                numero /= 2;
-            }
-            respuesta = Convert.ToString(numero) + respuesta;
-            return respuesta;
+            return DecimalBinario(Convert.ToString(numero));
         }
 
         public string DecimalBinario(string numero)
         {
-            this.SetNumero = numero;
-            if (this.numero == 0)
+            bool verif;
+            string binario = "";
+            int n;
+            verif = int.TryParse(numero, out n);
+            if (verif && n > -1)
             {
-                return "Valor inválido";
+                while (true)
+                {
+                    if ((n % 2) != 0)
+                    {
+                        binario = "1" + binario;
+                    }
+                    else
+                    {
+                        binario = "0" + binario;
+                    }
+                    n /= 2;
+                    if (n <= 0)
+                    {
+                        break;
+                    }
+                }
             }
             else
             {
-                return DecimalBinario(this.numero);
+                binario = "Valor invalido";
             }
+            return binario;
         }
 
         public static double operator +(Numero n1, Numero n2)
