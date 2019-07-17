@@ -69,7 +69,6 @@ namespace Entidades
 
             for (x = binario.Length - 1; x >= 0; x--)
             {
-                y++;
                 if (binario[x] == '0' || binario[x] == '1')
                 {
                     num += (double)(double.Parse(binario[x].ToString()) * Math.Pow(2, y));
@@ -79,11 +78,11 @@ namespace Entidades
                     retorno = "No es binario";
                     verif = false;
                 }
-
+                y++;
             }
             if (verif)
             {
-                retorno = Convert.ToString(num / 2);
+                retorno = Convert.ToString(num);
 
             }
             return retorno;
